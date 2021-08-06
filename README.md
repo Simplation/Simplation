@@ -1,9 +1,9 @@
-### Hi there 👋
 
-<!--
-**Simplation/Simplation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>
+	<p>
+	👋 Hi there, I am <b><a target="_blank" href="http://www.simplation.wang/">Simplation</a>
+	</p>
+</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +13,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Simplation)
+<!-- Activity Widget -->
+<p align="center">
+  <img alt="Simplation's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Simplation&show_icons=true" />  
+</p> 
+
+<br/>
+
+<details align="center">
+  <summary> &#9776; Read More</summary>
+    <br/>
+      <p align="center">
+        <br>
+          <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplation&hide=javascript,html" />       
+      </p>
+</details>
+
+<br/>
+
+<!-- Footer -->
+<p align="center">
+  ════════════════════════ ⋆★⋆ ════════════════════════
+  <br>
+  "Happy coding, Happy life!"
+</p>
