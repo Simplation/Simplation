@@ -1,22 +1,22 @@
-
 <h1>
-	<p>
-	👋 Hi there, I am <b><a target="_blank" href="http://www.simplation.wang/">Simplation</a>
-	</p>
+	👋 Hi there
 </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3>
+	<p>
+		I am <b><a target="_blank" href="http://www.simplation.wang/">Simplation</a>
+	</p>
+</h3>
+
+- 🔭 I’m currently working on: <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Android" src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=white"></a>
+- 🌱 I’m currently learning: <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Groovy" src="https://img.shields.io/badge/-Groovy-E34F26?style=flat-square&logo=Groovy&logoColor=white"></a> <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/-Dart-F7DF1E?style=flat-square&logo=Dart&logoColor=white"></a>
+- 💬 Ask me about: <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-9b3675?style=flat-square&logo=Kotlin&logoColor=white"></a> <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+- 📫 How to reach me: <a href="www.simplationwang@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 <br/>
 
 <!-- Activity Widget -->
+
 <p align="center">
   <img alt="Simplation's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Simplation&show_icons=true" />  
 </p> 
@@ -31,12 +31,11 @@
           <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplation&hide=javascript,html" />       
       </p>
 </details>
-
 <br/>
 
 <!-- Footer -->
 <p align="center">
-  ════════════════════════ ⋆★⋆ ════════════════════════
+  ════════════════════════ ⋆⋆★⋆⋆ ════════════════════════
   <br>
   "Happy coding, Happy life!"
 </p>
