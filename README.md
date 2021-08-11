@@ -8,9 +8,9 @@
 	</p>
 </h3>
 
-- 🔭 I’m currently working on: <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Android" src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=white"></a>
-- 🌱 I’m currently learning: <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Groovy" src="https://img.shields.io/badge/-Groovy-E34F26?style=flat-square&logo=Groovy&logoColor=white"></a> <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/-Dart-F7DF1E?style=flat-square&logo=Dart&logoColor=white"></a>
-- 💬 Ask me about: <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-9b3675?style=flat-square&logo=Kotlin&logoColor=white"></a> <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+- 🔭 I’m currently working on: <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Android" src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=white"></a>
+- 🌱 I’m currently learning: <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Groovy" src="https://img.shields.io/badge/-Groovy-E34F26?style=flat-square&logo=Groovy&logoColor=white"></a> <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/-Dart-F7DF1E?style=flat-square&logo=Dart&logoColor=white"></a>
+- 💬 Ask me about: <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-9b3675?style=flat-square&logo=Kotlin&logoColor=white"></a> <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-A97BFF?style=flat-square&logo=Python&logoColor=white"></a>
 - 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/?hl=zh-CN#inbox" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 <br/>
