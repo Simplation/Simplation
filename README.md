@@ -1,7 +1,8 @@
 <h1>
-	<p>👋 Hi there，I am <b><a target="_blank" href="http://www.simplation.wang/">Simplation</a>.
+	<p>Hey, ouuan here! 👋
 	</p>
 </h1>
+I'm you <b><a target="_blank" href="http://www.simplation.wang/">Simplation</a>.
 
 - 🔭 I’m currently working on: <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Android" src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=white"></a>
 - 🌱 I’m currently learning: <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Groovy" src="https://img.shields.io/badge/-Groovy-E34F26?style=flat-square&logo=Groovy&logoColor=white"></a> <a href="https://github.com/Simplation?tab=repositories" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/-Dart-F7DF1E?style=flat-square&logo=Dart&logoColor=white"></a>
@@ -46,7 +47,7 @@
     <br/>
       <p align="center">
         <br>
-          <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplation&hide=javascript,html" />       
+          <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplation&hide=javascript,html&theme=dark" />       
       </p>
 </details>
 <br/>
